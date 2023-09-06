@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/gideon-ogunbanjo-75aa521aa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi, i'm Gideon 👋</h1>
+<h1 align="center">Hi, i'm Gideon.</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer with a core in Machine Learning<br><br>- 🔭 I’m working as a Machine Learning Engineer Intern<br>- 📚 I'm currently learning Generative AI</p>
+<p align="left">I'm a Software Engineer with a core in Machine Learning<br><br>- 📚 I'm currently learning Artificial Intelligence - Generative AI</p>
 
 ###
 
