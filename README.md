@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Machine Learning Engineer / Data Scientist<br><br>- 📚 I'm currently learning Artificial Intelligence - Generative AI</p>
+<p align="left">I'm a Machine Learning Engineer <br><br>- 📚 I'm currently learning Artificial Intelligence - Generative AI</p>
 
 ###
 
