@@ -1,4 +1,4 @@
-<h1 align="center" style="color:white;>Hi, i'm Gideon.</h1>
+<h1 align="center">Hi, i'm Gideon.</h1>
 
 ###
 
