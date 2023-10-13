@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Machine Learning engineer and an aspiring AI Engineer!<br><br>- 📚 I'm currently researching Artificial Intelligence - Generative AI, LLM's & HealthCare Informatics</p>
+<p align="left">I'm a Machine Learning Engineer and an aspiring AI Engineer!<br><br>- 📚 I'm currently studying & researching Artificial Intelligence - Generative AI, LLM's & HealthCare Informatics</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">Software & Tools:</h4>
+<h3 align="left">Software & Tools:</h3>
 
 ###
 
