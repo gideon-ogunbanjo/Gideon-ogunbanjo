@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Machine Learning Engineer and an aspiring AI Engineer!<br><br>- 📚 I'm currently studying & researching Artificial Intelligence - Generative AI, LLM's & HealthCare Informatics</p>
+<p align="left">I'm a Machine Learning Engineer, Data Scientist and an aspiring AI Engineer!<br><br>- 📚 I'm currently studying & researching Artificial Intelligence - Generative AI, LLM's & HealthCare Informatics</p>
 
 ###
 
