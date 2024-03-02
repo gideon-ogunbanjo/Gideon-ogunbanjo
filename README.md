@@ -6,5 +6,4 @@
 
 ###
 
-<p align="left">As a Machine Learning Engineer, Data Scientist and an aspiring AI Engineer, I specialize in creating highly effective AI, data science and machine learning & deep learning models, with a primary focus on seamlessly integrating these solution-driven models into practical real-world applications.<br><br>- 📚 I'm currently studying & researching Artificial Intelligence - Generative AI, LLM's & HealthCare Informatics</p>
-
+<p align="left">I possess a unique skillset encompassing Machine Learning Engineering, Data Science, and AI Engineering. I specialize in developing high-performance AI, data science, and machine learning models. My core strength lies in seamlessly integrating these solution-oriented models into real-world applications, ensuring practical and impactful deployments.<br>
