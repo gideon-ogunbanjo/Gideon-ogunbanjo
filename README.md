@@ -6,4 +6,4 @@
 
 ###
 
-<p align="left">I possess a unique skillset encompassing Machine Learning Engineering, Data Science, and AI Engineering. I specialize in developing high-performance AI, data science, and machine learning models. My core strength lies in seamlessly integrating these solution-oriented models into real-world applications, ensuring practical and impactful deployments.<br>
+<p align="left">Artificial Inteligence | Machine Learning | Data Science<br>
